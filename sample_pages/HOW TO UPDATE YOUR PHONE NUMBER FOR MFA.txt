@@ -1,0 +1,13 @@
+How do I update my phone number for MFA?
+If your phone number has changed and you set up MFA using your phone to receive texts or calls to verify your identity, you will need to update your MFA settings to include the new number. Doing this will ensure your authentication prompts go to the right place.
+To update the phone number you should go through the following steps:
+In a web browser, login to the https://mysignins.microsoft.com/security-info using your University Username (uun) in the format uun@ed.ac.uk and your login password.
+Select Change next to your old phone number
+Select your country code and enter your phone number
+Choose Receive a code or Call me and select Next
+Enter the 6 digit code and select Next
+A message will show stating that your method is verified, select Done.
+You will either receive a text message or a phone call with a code to enter to complete the process.
+If you would like to make the new method your default, select the Change option next to Default sign-in method
+Select the drop-down menu and choose your preferred default sign-in method.
+We advise that you set up more than one method of authentication.  You may want to set up an authentication app as well. You can find instructions on how to do that here: https://edin.ac/3PGApLs

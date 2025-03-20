@@ -1,0 +1,54 @@
+Where can I access e-resources?
+
+There are a number of different entry points to the e-resources on the library webpages:
+DiscoverEd
+You can access DiscoverEd directly: https://discovered.ed.ac.uk/. if you are in MyEd (https://www.myed.ed.ac.uk/myed-progressive/), select Library and then "Search and access library resources."
+
+To retrieve and access e-resources, you need to log in before you search.  Sign in with your MyEd username and password at the top right-hand corner of the screen.
+
+
+You can search in DiscoverEd using the title of the journal article, the title of the journal or the title of the database you would like to use. You can select a resource type to search using the drop-down menu under “All items” beneath the main search bar.
+If you are searching for a journal, you can also use the “Journals Search”.  Click the link in the middle of the top bar in DiscoverEd.
+If you only want to access e-resources, you can alter the filter on the left-hand side under “Refine my Results”.  Click on “Show Only” and select “Full Text Online”.
+
+You can also access e-resources through:
+Library Subject Guides: https://edin.ac/2MxCzuV
+Library Database Guides: https://edin.ac/2DRNHPO
+You can either search for a particular database by name or you can browse through the resources selected for your subject.
+
+
+Authentication and troubleshooting
+EZProxy
+Most of the resources provided by the university use a system called EZProxy, which enables access both on and off campus. You will be asked for your University Login (for example when you log in to DiscoverEd), and provided you remain within the same browser window, you should not need to log in again within the same session.
+
+URLs which have been set up to enable remote access will start with "http://www.ezproxy.is.ed.ac.uk/login?url=". For example: http://www.ezproxy.is.ed.ac.uk/login?url=http://wwww.nature.com
+
+From time to time, you may receive an EZProxy error message.  A few users may receive an 'authorisation failed' error.
+
+If you repeatedly receive this message, contact EdHelp: https://edin.ac/2TzDRuF.
+
+UK Access Management Federation
+University Login via UK Access Management Federation (UKAMF) is used where EZProxy is not an option. UKAMF is sometimes referred to as Shibboleth.
+Institutional login, Shibboleth login, UK Access Management Federation, UK Federation, etc.
+Then choose your institution's location: UK.
+Then choose the University of Edinburgh.
+Then log in using your University login username and password.
+Please disregard any links to Athens or Open Athens, which are no longer relevant for the University of Edinburgh.
+Resources that use this kind of authentication may require you to log in from their homepage. Click on a link to log in by selecting any one of the following (publishers may use any of these phrases):
+Publisher-specific usernames and passwords
+A very small number of publishers require that we use their username and password, rather than your University Login. There is a list of these resources at https://www.ed.ac.uk/information-services/library-museum-gallery/finding-resources/find-ejournal/e-resource-usernames
+IP authenticated access and the VPN
+If you are on campus, you may opt to go directly to a supplier’s website, bypassing the University Login process. This should work provided you are on the University network and provided the publisher has set up IP authenticated access.
+If you are off campus, it is recommended that you follow links from our services.
+Some suppliers also require you to use the university VPN (Virtual Personal Network) to access their services if you are not on campus (that is, if you are not connected from a university desktop or through Eduroam).  If you are off campus and you are unable to access resources that you normally use, it may be that you need to connect to the VPN first.
+You can check this by looking at the database information on the Library Databases Guide page: https://edin.ac/2DRNHPO.
+You can also find this information if you click through to the full item record on DiscoverEd and scroll down to “View Online”.
+Registering for the VPN
+
+
+You can find more information about that at KI 0670 or on the university website: https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn
+
+What if I still need help?
+
+LibSmart (https://edin.ac/3dEWQPK) is our library and information literacy skills course which aims to help you develop the skills you need to use digital library resources for your research and study. LibSmart includes tutorials and videos on the topic of finding and using information online. You can enrol on LibSmart as a self-enrol course in Learn, or follow the instructions at: https://www.ed.ac.uk/information-services/help-consultancy/rm-and-consultancy/academic-support-librarians/asl-info-literacy/libsmart
+If you still need help, please complete an EdHelp Enquiry form (https://edin.ac/3UwM7ts) and we will contact you.

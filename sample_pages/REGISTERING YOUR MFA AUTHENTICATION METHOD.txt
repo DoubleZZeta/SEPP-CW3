@@ -1,0 +1,76 @@
+What is MFA?
+
+Multi-Factor Authentication (MFA) is an additional layer of security that helps prevent unauthorised access to services by adding a simple verification method. This means you will be asked to verify your University of Edinburgh account using another option, such as an authenticator app code, phone call, or SMS via a second device.
+
+What are the available MFA methods?
+There are several ways to set up MFA. These are sometimes called verification methods and they include the following:
+
+Microsoft Authenticator *Default authenticator app suggested when setting up MFA* (Recommended option)
+Requires an Android or iOS device to install the app
+Prompts for authorisation and can also provide a one-time password.
+Install the latest version of the Authenticator app, based on your operating system:
+Google Android. On your Android device, go to Google Play to download and install the Authenticator app.
+Apple iOS. On your Apple iOS device, go to the App Store to download and install the Authenticator app.
+Alternative authenticator
+There are a number of alternative suthenticator apps for mobile devices, such as Authy and Google Authenticator.  If you already use one of these apps for other sites, you may want to use it for your University of Edinburgh Office365 as well.
+Requires a Windows, macOS, Linux, Android or iOS device
+Provides a one-time password for the verification
+Text message
+Automated text sent to your phone number
+A device able to receive text messages
+Provides a one-time password for the verification
+Phone call
+Automated call made to your phone number
+Requires a device able to receive phone calls (Mobile phone/Landline)
+Prompts to press # on your device for the verification
+Follow the steps to set up your chosen authenticator method: https://www.ed.ac.uk/information-services/computing/computing-infrastructure/authentication-authorisation/multi-factor-authentication/register
+
+How many verification methods should I set up?
+
+It is recommended that you set up more than one of the MFA available methods - if you do this you will have an alternative method as a back-up to verify your details in case the first method doesn't work.
+For example, you could choose to set up MFA using text message verification but also install the Microsoft Authenticator app so that if you can't receive texts due to poor mobile signal, you can verify your details through the app.
+
+How do I use Microsoft Authenticator App?
+
+Warning: Only approve notifications you initiate
+
+Authentication notification with internet access
+Provide your username in the format uun@ed.ac.uk and your login password and select sign in.
+After selecting sign in you will be presented with a more information is required screen, select next.
+A notification will be sent to your MFA device
+Select approve sign-in
+After approval you will be able to use Microsoft 365 applications
+Authentication code with internet access
+Provide your username in the format uun@ed.ac.uk and your login password and select sign in.
+After selecting sign in you will be presented with a two-digit number on your screen.
+The Microsoft Authenticator app on your phone will ask you to enter the numbers shown on your computer screen into the Microsoft Authenticator app.
+Once you have entered the numbers, select Yes.
+After selecting Yes you will have approved your authentication request and be able to continue using Microsoft 365 applications.
+Authentication code without internet access
+Provide your username in the format uun@ed.ac.uk and your login password.
+Select I can't use my Microsoft Authenticator app right now > Use a verification code
+Open Microsoft Authenticator
+Select the @ed.ac.uk account.
+Provide the 6 digit password displayed by the app.
+After providing the code you will be able to continue using Microsoft 365 applications.
+How do I authenticate with a phone call?
+
+Warning: Only approve notifications you initiate
+Provide your username in the format uun@ed.ac.uk and your login password.
+A call will be made to your nominated phone.
+Listen to the automated message and press the phone's hash/pound key # to confirm that you initiated this.
+You will have around 30 seconds to approve the message from the time you pick up the call.
+
+How do I authenticate with a text message?
+
+Warning: Only approve notifications you initiate
+Provide your username in the format uun@ed.ac.uk and your login password.
+A text message will be sent to your nominated phone.
+Provide the 6 digit password provided in the text message.
+How do I add an extra method of authentication?
+
+Go to the My Sign-ins page (https://mysignins.microsoft.com/security-info) and click on add sign-in method. Follow the on screen instructions to add the new method you want.
+
+What systems do I need to use MFA to access?
+- Office 365 (email, OneDrive, OneNote, Sharepoint, Office applications including Word, Excel, Powerpoint, etc)
+- Azure Virtual Desktop

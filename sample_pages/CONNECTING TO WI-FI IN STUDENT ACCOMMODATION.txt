@@ -1,0 +1,69 @@
+In student accommodation, you will have two Wi-Fi networks available:  eduroam and ResNet.
+
+eduroam (education roaming) is the preferred 1st choice network, to which you can connect most devices. ResNet is for devices that cannot connect to eduroam or for wired connection (smart speakers, games consoles etc.) via Ethernet cable.
+
+eduroam is the secure, world-wide roaming Wi-Fi access service developed for the international research and education community.
+
+In other words: eduroam is the university's Wi-Fi service.
+
+
+Getting connected to eduroam
+
+1. Sync your university login to eduroam login.
+
+As a first step for connecting to eduroam, we recommend that you sync your university login with your eduroam login: vpnreg.ucs.ed.ac.uk/ease/wifiusead.cgi.
+
+2. Get your device ready to connect to eduroam.
+
+For the quickest setup, we recommend that you use the eduroam app.
+
+Clicking on Configure your device for eduroam (cloud.securew2.com/public/23114/eduroam) will launch a new browser window, allowing you to walk through the steps to set up your WiFi on this device.
+
+You need to be on campus to get an eduroam signal in order to connect.
+
+
+
+Your device can't connect to eduroam? Register for Resnet.
+
+There will be some devices which can't connect to eduroam. For these devices please use the wired outlets in your room or the ResNet Wi-Fi network. In order for these devices to connect to ResNet they must first be registered in the Device Portal.
+
+In order to register you will need to know your devices MAC address. Please note that some devices have separate MAC addresses for wired and wireless connections. Use the instructions below to ensure you register the correct one.
+
+How to find my MAC address: portal.is.ed.ac.uk/guest/mac_help.php?_browser=1
+
+Once you have your MAC address please follow the below guidance:
+
+1) Log into the ResNet Device Portal (portal.is.ed.ac.uk/guest) as your student username in the format s1234567
+2) Click 'Create Device' and enter the details requested on the form:
+3) Your UUN (should automatically be populated by your logon to the device portal)
+4) Device Name - Enter a descriptive name for the device for your reference
+5) MAC address - The unique hardware address given to each device. Some devices have both wireless and wired network adaptors and will have unique MAC address for each. See 'Help finding your MAC address' below.
+
+        • Select Wired or Wireless from the Device Type drop-down menu.
+        • Tick to agree to the Terms of Use, more detail can be found on the link "University Computing Regulations": portal.is.ed.ac.uk/guest/terms.php
+        • Press the 'Create Device' button.
+
+Your device should now work on the ResNet network.
+
+Connecting your device to ResNet
+
+After the device has been registered on the device portal you are ready to join that device to the ResNet Network via Wi-Fi or wired connection.
+
+Wi-Fi
+1) In your Hall of Residence, search for the 'ResNet' Wi-Fi network on your device.
+2) Join it using the exact password generated for that device on the device portal. NOTE: These are case-sensitive.
+3) If the registered MAC address and password match, the device should be connected to the 'ResNet' Wi-Fi.
+If they do not match, you will receive a message such as "Incorrect password", "Could not join network", or "Network connection timed out". Please check device details on the device portal and try again.
+
+Wired
+1) In your hall of residence there should be at least one RJ45 ethernet network outlet in your room.
+2) Join the ResNet network by connecting in a RJ45 cable provided between the wall outlet and your device.
+3) If the MAC address matches the registration on the device portal, the device will be connected to the ResNet Network.
+If not, you will likely receive "No Internet Connectivity" message. Please check device details in the ResNet Device Portal (portal.is.ed.ac.uk/guest) and try again.
+
+If you are having issues connecting to Resnet please use this form: www.ed.ac.uk/is/resnet-connection-issues.
+
+
+What if I still need help?
+
+If you still need help, please complete an EdHelp Enquiry form (https://edin.ac/3DABP2D) and we will contact you.

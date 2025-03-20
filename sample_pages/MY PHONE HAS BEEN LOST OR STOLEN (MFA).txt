@@ -1,0 +1,7 @@
+If your phone has been lost or stolen, you should sign out of all your devices and contact EdHelp as soon as possible.
+
+1. Go to https://mysignins.microsoft.com/security-info
+2. Under your sign in methods, you should see "Lost Device? Sign out everywhere".  Click Sign out everywhere.
+3. Submit an MFA Query Form for Students (https://edin.ac/MFA-Students) or Staff (https://edin.ac/MFA-Staff) to request us to remove all authentication methods from your phone.  You can also request a temporary passcode to access your email while you do not have a phone.
+
+You can reset your authentication methods to a temporary device or a new device at https://mysignins.microsoft.com/security-info.

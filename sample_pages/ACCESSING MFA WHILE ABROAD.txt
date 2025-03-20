@@ -1,0 +1,15 @@
+If you are travelling abroad, it may be preferable to use the Microsoft Authenticator app as it doesn’t need connectivity.
+
+Some countries have additional restrictions and you are strongly advised to check this before travelling, see Microsoft Authenticator for Android in the public cloud in China.
+
+Before travelling or working abroad
+
+When using the authenticator app the device initially has to be registered with Office 365 and it is advisable to set this up before travelling.
+If you are planning  to travel to a location with poor connectivity, please make sure to do the following:
+To Download and install the Microsoft Authenticator app
+Be aware that some countries have additional restrictions.
+Set up the app before travelling.
+
+
+
+If you are currently abroad and cannot access MFA, please request support using the MFA Query Form for Students (https://edin.ac/MFA-Students) or Staff (https://edin.ac/MFA-Staff).

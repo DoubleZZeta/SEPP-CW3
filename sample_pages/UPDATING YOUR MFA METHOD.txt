@@ -1,0 +1,37 @@
+How do I delete an MFA Method?
+In a web browser, login to https://mysignins.microsoft.com/security-info using your University Username (UUN) in the format uun@ed.ac.uk and your login password.
+Select the Delete option, next to the method you want to remove.
+If you delete your default sign-in method, the next available method will automatically become your default method.
+
+How do I change my default method?
+In a web browser, login to https://mysignins.microsoft.com/security-info using your University Username (uun) in the format uun@ed.ac.uk and your login password.
+Select the Change option, next to Default sign-in method
+Select the drop-down menu and choose your preferred default sign-in method.
+What method should I use for travelling abroad?
+
+If you are travelling abroad, an authenticator app is the only guaranteed method of authentication.
+
+I have a new phone. How do I update my authentication method?
+
+If your phone number or mobile device has changed, you will need to update your MFA settings. Doing this will ensure your verification prompts go to the right place.
+If your phone number has not changed and you are using phone or text verification, there is no need to make a change to your authentication method.
+However, when changing devices, the Authenticator app needs to be removed from your profile first then on the new device you should install Authenticator then proceed with setting up the authenticator app again.
+
+If you need to have your Authenticator app removed from your profile, please submit an MFA Query Form (https://edin.ac/MFA-Students) and we will assist you.
+
+
+Before you update your authentication method ensure you have the device with you.
+
+To update the method of authentication you should go through the following steps:
+
+1. Sign into https://mysignins.microsoft.com/security-infopage
+2. You will see your Default sign-in method displayed under Security info. Select the Add sign-in method option
+3. Select the authentication method you want to set up e.g. Authenticator app, phone, etc.
+4. Follow the on-screen instructions to set up the new method
+5. Once complete, select the Change default method option
+6. Select your newly set up method and click confirm
+
+If you have any problems during set up please submit an MFA Query Form and we will assist you.
+
+MFA Query Form for Students: https://edin.ac/MFA-Students
+MFA Query Form for Staff: https://edin.ac/MFA-Staff

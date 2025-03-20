@@ -1,0 +1,182 @@
+[
+  {
+    "username": "admin1",
+    "password": "admin1pass",
+    "email": "admin1@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin2",
+    "password": "admin2pass",
+    "email": "admin2@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin3",
+    "password": "admin3pass",
+    "email": "admin3@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin4",
+    "password": "admin4pass",
+    "email": "admin4@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin5",
+    "password": "admin5pass",
+    "email": "admin5@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin6",
+    "password": "admin6pass",
+    "email": "admin6@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin7",
+    "password": "admin7pass",
+    "email": "admin7@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin8",
+    "password": "admin8pass",
+    "email": "admin8@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin9",
+    "password": "admin9pass",
+    "email": "admin9@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "admin10",
+    "password": "admin10pass",
+    "email": "admin10@hindeburg.ac.uk",
+    "role": "AdminStaff"
+  },
+  {
+    "username": "student1",
+    "password": "student1pass",
+    "email": "student1@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student2",
+    "password": "student2pass",
+    "email": "student2@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student3",
+    "password": "student3pass",
+    "email": "student3@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student4",
+    "password": "student4pass",
+    "email": "student4@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student5",
+    "password": "student5pass",
+    "email": "student5@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student6",
+    "password": "student6pass",
+    "email": "student6@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student7",
+    "password": "student7pass",
+    "email": "student7@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student8",
+    "password": "student8pass",
+    "email": "student8@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student9",
+    "password": "student9pass",
+    "email": "student9@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "student10",
+    "password": "student10pass",
+    "email": "student10@hindeburg.ac.uk",
+    "role": "Student"
+  },
+  {
+    "username": "teacher1",
+    "password": "teacher1pass",
+    "email": "teacher1@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher2",
+    "password": "teacher2pass",
+    "email": "teacher2@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher3",
+    "password": "teacher3pass",
+    "email": "teacher3@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher4",
+    "password": "teacher4pass",
+    "email": "teacher4@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher5",
+    "password": "teacher5pass",
+    "email": "teacher5@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher6",
+    "password": "teacher6pass",
+    "email": "teacher6@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher7",
+    "password": "teacher7pass",
+    "email": "teacher7@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher8",
+    "password": "teacher8pass",
+    "email": "teacher8@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher9",
+    "password": "teacher9pass",
+    "email": "teacher9@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  },
+  {
+    "username": "teacher10",
+    "password": "teacher10pass",
+    "email": "teacher10@hindeburg.ac.uk",
+    "role": "TeachingStaff"
+  }
+]

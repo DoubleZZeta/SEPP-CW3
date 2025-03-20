@@ -1,0 +1,21 @@
+If you have set up MFA to verify by entering a code received in a text or phone call you may encounter one of these scenarios:
+
+I didn't enter the code in time and now it won't work
+
+The codes sent are programmed to expire after a few minutes, therefore you should enter these as soon as possible for the verification to succeed. If you are delayed in entering the code, and it has expired, you should close the Microsoft application you are using and re-open it. This will prompt a new code to be sent by Microsoft and you should enter this new code as soon as possible to verify your details.
+
+
+Nothing happens when I enter the code
+
+If the process doesn't progress when you enter the code to verify it may have timed out for security reasons. If this happens, you should close the Microsoft application you are using and re-open it. You should then be prompted to restart the process.
+
+
+Have you had a new phone recently?
+
+If you are using a new device, even if you have the same phone number, you will need to remove and reinstall your authenticator app.
+Remove the authenticator app from your phone
+Request the authenticator app to be deleted from your account using the MFA Support Query for Students form (https://edin.ac/MFA-Students)
+Once you have confirmation that the app has been removed from your account, go to the App Store and reinstall the app
+Go to My Sign-ins and add a new authentication method: https://mysignins.microsoft.com/security-info
+
+If you are still having problems and you have not had a new phone recently, your account may have been locked.  Please submit an MFA Query form (https://edin.ac/MFA-Students) and we will contact you to assist.

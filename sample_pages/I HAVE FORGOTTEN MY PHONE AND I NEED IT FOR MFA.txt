@@ -1,0 +1,5 @@
+You can get a temporary passcode to access your email if you are being asked to authenticate and you don't have your phone with you or it has died.
+
+Please visit a Library Helpdesk to request a Temporary Access Pass (TAP).  You can request a TAP at any Library Helpdesk (see locations here: https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/lib-locate) during helpdesk opening hours.
+
+If you are not able to visit a Library Helpdesk in person, please submit an MFA Query form for Students (https://edin.ac/MFA-Students) or Staff (https://edin.ac/MFA-Staff) and we will contact you.
